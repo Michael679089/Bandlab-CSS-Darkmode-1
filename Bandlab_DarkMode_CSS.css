@@ -1,28 +1,39 @@
 /* # This section is for adjusting all texts (Credits to Notion's Color Palette)*/
-*, .bold-16 {
-	color: white !important;
+*,
+.bold-16 {
+  color: white !important;
 }
 
 /* # This section is the entire page */
-.view-main, .page-header-sticky, .profile-card-header, .form-field {
-	background-color: #181918 !important;
+.view-main,
+.page-header-sticky,
+.profile-card-header,
+.form-field {
+  background-color: #181918 !important;
 }
 
 /* # This section is the title bar and the user card */
-.title-bar, .user-nav-card, .player-container, .complete-profile-earn-card, .pill, .post-create-caption {
-	background-color: #202020 !important;
-	border: 1px solid rgba(255, 255, 255, 0.2);
+.title-bar,
+.user-nav-card,
+.player-container,
+.complete-profile-earn-card,
+.pill,
+.post-create-caption,
+.post-card-link-description {
+  background-color: #202020 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .create-post {
-	background-color: #202020 !important;
+  background-color: #202020 !important;
 }
 
 /* # This section is the comments and feed */
 .post-card-bandlab-attachment-new {
-	background-color: rgba(0, 0, 0, 0.0);
+  background-color: rgba(0, 0, 0, 0);
 }
 
-.button-scd, .comment-textarea {
-	background-color: #202020;
+.button-scd,
+.comment-textarea {
+  background-color: #202020;
 }
